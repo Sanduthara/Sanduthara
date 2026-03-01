@@ -1,13 +1,13 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:2980b9&height=190&section=header&text=Kavindu%20Chamuditha&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20Information%20Technology%20Student&descAlignY=55&descSize=14" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:2980b9&height=190&section=header&text=Dilshi%20Sanduthara&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20Information%20Technology%20Student&descAlignY=55&descSize=14" width="100%" />
 
   <!-- PROFILE VIEWS COUNTER -->
-  <img src="https://komarev.com/ghpvc/?username=Kavistd&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Sanduthara&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Profile Views" />
   
   <!-- SOCIAL BADGES -->
   
-  <a href="https://www.linkedin.com/in/Kavistd" target="_blank">
+  <a href="[https://www.linkedin.com/in/Dilshi Sanduthara](https://www.linkedin.com/in/dilshi-sanduthara-756629315)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <!-- <a href="https://.........." target="_blank">
@@ -28,16 +28,15 @@
 <h2 align="center">🔧 Technologies & Tools</h2>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/MERN-3C873A?style=for-the-badge&logo=mongodb&logoColor=white" alt="MERN Stack" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
   <!-- <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
   <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" alt="PM2" /> -->
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
@@ -60,7 +59,7 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-  A passionate software developer and freelancer from Sri Lanka, currently studying Information Technology at SLIIT. I specialize in MERN stack development and have a keen interest in Python(django) and AI projects.
+  I am a passionate QA Engineer and freelancer from Sri Lanka, currently pursuing a degree in Information Technology at SLIIT. I specialize in manual and automated testing, ensuring software quality through test case design, bug tracking, API testing, and performance analysis.
 </p>
 
 <div align="center">
@@ -187,18 +186,13 @@
   <a href="https://linkedin.com/in/kavinduchamuditha" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://fb.com/kavinduchamuditha94" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://instagram.com/kavindu_std" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
-  </a>
+
   <a href="mailto:kavindustd@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://v0-kavindu-portfolio-7563waqg7-kavindu-chamudithas-projects.vercel.app/" target="_blank">
+  <!-- <a href="https://v0-kavindu-portfolio-7563waqg7-kavindu-chamudithas-projects.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-</a>
+</a> -->
 
 </div>
 
@@ -210,24 +204,24 @@
 <div align="center">
   <!-- Main Stats Row - Side by Side Cards -->
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kavistd&show_icons=true&theme=react&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=44CC11" width="48%" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Kavistd&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=44CC11&fire=44CC11&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" width="48%" alt="GitHub Streak Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Sanduthara&show_icons=true&theme=react&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&ring_color=44CC11" width="48%" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Sanduthara&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=44CC11&fire=44CC11&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" width="48%" alt="GitHub Streak Stats" />
   </p>
 
   <!-- Languages and Activity Row -->
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavistd&theme=react&hide_border=true&layout=compact&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="40%" alt="Top Languages" />
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kavistd&bg_color=0D1117&color=58A6FF&line=44CC11&point=FFFFFF&area=true&hide_border=true" width="55%" alt="GitHub Activity Graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanduthara&theme=react&hide_border=true&layout=compact&langs_count=8&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" width="40%" alt="Top Languages" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sanduthara&bg_color=0D1117&color=58A6FF&line=44CC11&point=FFFFFF&area=true&hide_border=true" width="55%" alt="GitHub Activity Graph" />
   </p>
 
   <!-- Contribution Details - Full Width -->
   <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kavistd&theme=github_dark" width="90%" alt="Contribution Details" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sanduthara&theme=github_dark" width="90%" alt="Contribution Details" />
   </p>
 
   <!-- GitHub Trophies - Full Width -->
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Kavistd&theme=algolia&no-frame=true&margin-w=15&column=9" width="90%" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Sanduthara&theme=algolia&no-frame=true&margin-w=15&column=9" width="90%" alt="GitHub Trophies" />
   </p>
 
   <!-- Stats Quick Badges - Using Grid -->
