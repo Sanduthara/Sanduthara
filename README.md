@@ -76,7 +76,9 @@
         </ul>
       </td>
       <td>
-<img align="right" alt="Coding" width="400" src="https://1.bp.blogspot.com/-wHeOfpFyjAA/WOYKx5ijjYI/AAAAAAAAABI/InN8TcBiE7EdYkbkZtnukpv8hTiwcI0QQCLcB/s640/hacker.gif" alt="Coding Animation">
+<p align="right">
+  <img src=""C:\Users\dilsh\Downloads\tech girl.webp"" width="400" alt="Coding Girl">
+</p>
       </td>
     </tr>
   </table>
