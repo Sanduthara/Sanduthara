@@ -77,7 +77,7 @@
       </td>
       <td>
 <p align="right">
-  <img src=""C:\Users\dilsh\Downloads\tech girl.webp"" width="400" alt="Coding Girl">
+  <img src="tech girl.webp" width="400" alt="Coding Girl">
 </p>
       </td>
     </tr>
